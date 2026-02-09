@@ -1,0 +1,15 @@
+{
+  "default_deck": {
+    "cards": [
+      "knight",
+      "archers",
+      "fireball",
+      "mini_pekka",
+      "musketeer",
+      "goblin_cage",
+      "zap",
+      "hog_rider"
+    ],
+    "average_elixir": 3.5
+  }
+}
